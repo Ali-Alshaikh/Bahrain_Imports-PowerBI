@@ -15,5 +15,11 @@ download the following data:
 - Imports 2021
 - Imports 2022
 - Imports 2023
-3. Download the .csv file
+
+OR 
+
+Download all the data that is inside the `lab` folder 📁
+
+
+# Happy Ramadan 🌙
 
