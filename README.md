@@ -1,5 +1,8 @@
 # Power BI Bahrain Import Project 
 
+<img width="680" alt="final lab" src="https://github.com/user-attachments/assets/77271333-3b32-420d-9fd2-eff164e2f1cc" />
+
+
 I have used power BI to analyze 4 datasets, downloaded form this website: https://www.data.gov.bh
 download the following data: 
 - Imports 2020
